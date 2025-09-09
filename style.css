@@ -1,0 +1,22 @@
+p{
+    display: inline-block;
+}
+p.Red{ 
+    display: inline-block;
+background-color: red;
+height: 500px;
+width: 500px;
+}
+p.Green{
+     display: inline-block;
+background-color: green;
+height: 500px;
+width: 500px;
+}
+p.Blue{
+     display: inline-block;
+background-color: blue;
+height: 500px;
+width: 500px;
+
+}
